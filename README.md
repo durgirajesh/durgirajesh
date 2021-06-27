@@ -1,4 +1,5 @@
-Hi there 👋, I’m Durgi Rajesh. I’m interested in Algorithms, Data Science. Currently learning ReactJS and Django. Reach me at durgirajesh@gmail.com
+Hi there 👋, I’m Durgi Rajesh.
+Reach me at durgirajesh@gmail.com
 
 <!---
 durgirajesh/durgirajesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
